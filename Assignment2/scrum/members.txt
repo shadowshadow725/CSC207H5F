@@ -1,0 +1,7 @@
+Member1 name: JieYuan Xia       email: jieyuan.xia@mail.utoronto.ca   utorid: xiajieyu
+Member2 name: Yunkai Fan        email: yunkai.fan@mail.utoronto.ca    utorid: fanyunka
+Member3 name: XinHao Hou        email: xinhao.hou@mail.utoronto.ca    utorid: houxinha	
+Member4 name: TongYe Zhang      email: tongye.zhang@mail.utoronto.ca  utorid: zhan6503
+
+Coach: Michelle luo
+Email: mich.luo@mail.utoronto.ca

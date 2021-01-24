@@ -1,0 +1,93 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 20, 2019
+	Yesterday :nothing
+	Today     :BUG3.0, USER STORY 3.1
+	Obstacles : nothing 
+
+Nov 21, 2019
+	Yesterday :BUG3.0, USER STORY 3.1
+	Today     :nothing
+	Obstacles :nothing
+
+Nov 22, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+	
+Nov 23, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+
+Nov 24, 2019
+	Yesterday :nothing
+	Today     : US3.2
+	Obstacles : needed to change default toString method for US3.2
+
+Nov 25, 2019
+	Yesterday :US3.2
+	Today     :US3.3
+	Obstacles :regex 
+
+Nov 26, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+	
+Nov 27, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+	
+Nov 28, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+	
+Nov 29, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+
+Nov 30, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+
+Dec 1, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+	
+Dec 2, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+
+Dec 3, 2019
+	Yesterday :nothing
+	Today     :nothing
+	Obstacles :nothing
+
+Dec 4, 2019
+	Yesterday :nothing
+	Today     : BUG3.4, BUG3.5
+	Obstacles : instructions unclear 
+	
+Dec 5, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 7, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	

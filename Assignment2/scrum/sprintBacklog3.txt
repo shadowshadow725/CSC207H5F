@@ -1,0 +1,100 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 3 Nov 03-Nov 09, 2019
+# Sprint 3 Backlog UserStories go below
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.021 : UTORID :houxinha STATUS : Complete
+NAME     : Check Architecture
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1.5 hour   ACTUAL : 1 hour
+ISSUE    : If your code is not MVC right now, fix it to MVC. Pay the price
+now to create a good architecture, rather than clean up a lot of code later.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.03 : UTORID : houxinha STATUS : Complete
+NAME     : Whos Next
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 0.5 hour
+ISSUE    : When users play HumanVSHuman, the player that moves next is on display,
+correctly showing the token of the next player to make a move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.04 : UTORID :houxinha STATUS : Complete
+NAME     : Token Counter
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 0.5 hour ACTUAL : 10 minutes
+ISSUE    : When user play, the count for each player is on display.
+This count shows the
+current number of P1 tokens and P2 tokens on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.05 : UTORID : houxinha STATUS : Complete
+NAME     : Who Won
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :
+ISSUE    : When users play, the current status of the game is on display, showing the token
+of the winner of the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.06 : UTORID : houxinha STATUS : Complete
+NAME     : Change tokens to Images
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 0.5 hour
+ISSUE    : When users are playing and the board is on display,
+instead of displaying X and O as players, the users see
+appropriate black/white tokens.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.07 : UTORID : houxinha STATUS : Complete
+NAME     : Opponent Chooser GUI Selection
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 day  ACTUAL : 3 days
+ISSUE    : When users are playing, they see a GUI which allows the user to
+choose whether to play HumanVSHuman, HumanVSGreedy, HumanVSRandom.
+This user story involves
+just providing the gui for choice. After choosing, log the choice to
+the console, the game actually
+plays HumanVSHuman for now. The user should be able to switch opponents
+at any time during game play.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.071 : UTORID : houxinha STATUS : Complete
+NAME     : Opponent Chooser GUI Display
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  30 minutes 
+ISSUE    : An extension to Opponent Chooser, the current player types
+are on display, so for example,
+P1: Human  P2: Greedy
+P1: Random P2: Human
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.08 : UTORID : houxinha STATUS : Complete
+NAME     : Opponent Chooser Implementation
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 10 minutes  ACTUAL :  10 minutes
+ISSUE    : An extension to Opponent Chooser, we implement the users choice
+of opponent, so the Human can actually play the select opponent. Reminder:
+the user should be able to switch opponents at any time during game play.
+THe current game continues with the new opponent.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.11 : UTORID : houxinha STATUS : Complete
+NAME     : Restart
+OWNER    : member3
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 3 hours
+ISSUE    : When a user is playing, they see a button etc. which allows them
+to restart the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

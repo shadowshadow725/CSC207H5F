@@ -1,0 +1,21 @@
+RandomVSRandom Report
+
+1) What is your conclusion, does the first or
+second player have some advantage, at least for a random strategy? 
+
+2) Watch https://www.youtube.com/watch?v=Iq9DzN6mvYA
+
+3) Briefly write your thoughts on the above video below:
+
+4) H0 is 
+hypothesis assuming there are no difference in parameters, which means there are no difference going second or going first
+5) Ha is 
+hypothesis assuming there are difference in parameters, which means there are difference going second or going first
+6) Choose one of the following and delete the other:
+
+   My experimental results do not support H0, so they support Ha
+
+7) As in the video, use either math or code (add a Java Class) to argue for or against H0
+
+References: 
+https://www.thoughtco.com/null-hypothesis-vs-alternative-hypothesis-3126413

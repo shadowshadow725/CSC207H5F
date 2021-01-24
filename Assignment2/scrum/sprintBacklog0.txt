@@ -1,0 +1,64 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 0      -Oct 22, 2019
+# Sprint 0 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : BUG 0.000 : arnold : STATUS : Complete
+NAME     : Build preliminary assignment 2 POC
+OWNER    : arnold
+PRIORITY : 1
+ESTIMATE : 2 days      ACTUAL : 2 days
+ISSUE    : Build initial assignment 2 MVC solution, with GUI and 
+HumanVSHuman as well as HumanVSAI 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.001 : arnold : STATUS : Complete
+NAME     : Add MVC example to A2
+OWNER    : arnold
+PRIORITY : 1
+ESTIMATE : 2 hours      ACTUAL : 2 hours
+ISSUE    : Give students an initial MVC example to help them get started 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.002 : arnold : STATUS : Complete
+NAME     : Setup assignment 2 website.
+OWNER    : arnold
+PRIORITY : 1
+ESTIMATE : 1 days       ACTUAL: 1 days
+ISSUE    : Build a2 website describing assignment for students.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.003 : arnold : STATUS : Complete
+NAME     : Run groups application for students to sign up in teams.
+OWNER    : arnold
+PRIORITY : 1
+ESTIMATE : 1 hours      ACTUAL : 3 hours
+ISSUE    : 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.004 : arnold : STATUS : Complete
+NAME     : Address JavaFX and JDK platform issues
+OWNER    : arnold
+PRIORITY : 1
+ESTIMATE : 2 hours      ACTUAL : 1 days
+ISSUE    : Make sure that we have either sufficient documentation or
+a good platform for students to work together as a group.
+
+NOTES: Settled on jdk 11, openjfx (11), Eclipse 2019-03, vim, git
+Prepared a VM containing all of this. Also had TAs write some docs
+to help students manage their own platforms.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.005 : arnold : STATUS : Complete
+NAME     : Strip down sample code and post to group repos
+OWNER    : arnold
+PRIORITY : 1
+ESTIMATE : 2 hours      ACTUAL : 4 hours
+ISSUE    : 
+
+NOTES: While stripping down the code, kept improving the product backlog.
+--------------------------------------------------------------------------
+

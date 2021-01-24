@@ -1,0 +1,140 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 10-Nov 16, 2019
+# Sprint 4 Backlog UserStories go below
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : UTORID : zhan6503 STATUS : Complete
+NAME     : Othello Timer Fixed Time
+OWNER    : member 4
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  2 hours
+ISSUE    : When users play, they see a chess like timer for the othello game.
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG   1.09 : UTORID : houxinha , STATUS : Complete
+NAME     : Othello Timer Fixed Time
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  1 hours
+ISSUE    : Bug causes by incorrect static usage causing player names to be changed after each timer update. Also
+fixed a problem of entering non integer values when setting the timer would cause errors in the console. More code
+clean up and renaming.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.10 : UTORID : xiajieyu STATUS : Complete
+NAME     : AI Hint
+OWNER    : Member 1
+PRIORITY : 1
+ESTIMATE : 4 hours   ACTUAL :  3 hours
+ISSUE    : Display a hint (row,col) move that player can use
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.101 : UTORID : xiajieyu STATUS : Complete
+NAME     : AI Hint
+OWNER    : Member 1
+PRIORITY : 1
+ESTIMATE : 4 hours   ACTUAL :  1 hours
+ISSUE    :
+1) Instead of displaying the (row,col),the hint is highlighted on the board.
+
+2) User can click on Random/Greedy/New Strategy hint button to give out the
+hint they want.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.11 : UTORID : houxinha STATUS : Complete
+NAME     : player switcher no longer work after reset
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 10 minutes
+ISSUE    : player switcher no longer work after reset
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.12 : UTORID : xiajieyu STATUS : Complete
+NAME     : Undo
+OWNER    : member1
+PRIORITY : 2
+ESTIMATE : 4 hours    ACTUAL :  4 hours
+ISSUE    : A user has the ability to undo the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : UTORID :xiajieyu STATUS :Complete
+NAME     : Animation
+OWNER    : member1
+PRIORITY : 3
+ESTIMATE : 4 hours  ACTUAL :2 hours
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.14 : UTORID : fanyunka STATUS : Complete
+NAME     : Available moves
+OWNER    : member2
+PRIORITY : 1
+ESTIMATE : 4 hours   ACTUAL : 1 day
+ISSUE    : When a user is playing, they see the positions that they can
+move highlighted vs the positions they can't move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.15 : UTORID : fanyunka STATUS : Complete
+NAME     : Better strategy
+OWNER    : Member 2
+PRIORITY : 1
+ESTIMATE : 1 day ACTUAL :  2 hours
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.15 : UTORID : fanyunka STATUS : Complete
+NAME     : Better strategy UI FIX
+OWNER    : Member 2
+PRIORITY : 1
+ESTIMATE : 1 hour ACTUAL :  1 hours
+ISSUE    : Made change to UI of Othello board after adding new Strategy
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.17 : UTORID : houxinha STATUS : Complete
+NAME     : Use Visitor for Othello board
+OWNER    : member4
+PRIORITY : 1
+ESTIMATE : 4 day   ACTUAL :  1 day
+ISSUE    : There is a lot of replicated code in Othello and OthelloBoard, all of
+which visits the board in one of a few different ways. Implement the
+visitor design pattern on the OthelloBoard and rewrite code using othello
+and othello board to now create visitors and use them as appropriate.
+
+NOTE: Some private methods could be removed as a result of this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.18 : UTORID : xiajieyu STATUS : Complete
+NAME     : Documentation
+OWNER    : Member1
+PRIORITY : 2
+ESTIMATE : 0.5 hours    ACTUAL : 0.5 hours
+ISSUE    : Make documentations
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.99 : UTORID : zhan6503 STATUS : Complete
+NAME     : Architecture Document
+OWNER    : member4
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 2 hours
+ISSUE    : Complete architecture.txt outlining any interesting features about
+your design. You should outline which design patterns you used where.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : UTORID : zhan6503 STATUS : Complete
+NAME     : Othello Timer User Specified Time
+OWNER    : member 4
+PRIORITY : 1
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.

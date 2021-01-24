@@ -1,0 +1,7 @@
+bin
+.settings
+.classpath
+.project
+/.Assignment2.iml
+/.JavaFX.prototype
+/.OthelloApplication.lauch

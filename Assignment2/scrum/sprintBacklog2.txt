@@ -1,0 +1,50 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 2 Oct 27-Nov 02, 2019
+# Sprint 2 Backlog UserStories go below
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.01 : UTORID : houxinha STATUS : Complete
+NAME     : OthelloGUI Click Registration
+OWNER    : Member 3
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  2 hours
+ISSUE    : User can now click on an 8x8 grid of buttons used by the
+OthelloApplication. At this stage, a click results in a print out of
+the (row,col) that the user clicked.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.011 : UTORID :xiajieyu STATUS : Complete
+NAME     : OthelloGUI Buttons Active, Console View
+OWNER    : Member 1
+PRIORITY : 1
+ESTIMATE : 2 days    ACTUAL : 3 days 
+ISSUE    : The users can now use the OthelloGUI created in US1.01 
+for Human vs Human play. Now when the user clicks a button, the resulting
+board is printed on the console. This basically replaces the keyboard
+in the old HumanVSHuman game, but the output is still on the console.
+
+NOTE: Make sure that you are using good MVC principles in implementing this.
+If you didn't then file BUG 1.012 to fix the implementation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.012 : UTORID : xiajieyu STATUS : Complete 
+NAME     : OthelloGUI 
+OWNER    : Member 1
+PRIORITY : 1
+ESTIMATE : 2 hours ACTUAL : 2 hours
+ISSUE    : Fix bugs in US 1.011.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.02 : UTORID : houxinha   STATUS : Complete
+NAME     : Othello Board Human VS Human
+OWNER    : Member 3
+PRIORITY : 1
+ESTIMATE : 3 hours  ACTUAL :  1 hours
+ISSUE    : The users can now use the OthelloGUI created in US1.012 
+for Human vs Human play. The grid buttons simply show X and O text
+labels for the buttons. There is no longer a console display as in 1.012.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

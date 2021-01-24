@@ -1,0 +1,27 @@
+To work together on the project, each team 
+will be given a repo. Only team members, and
+the instructional staff, will be able to access 
+the teams repo. 
+
+To collaborate, each team member should clone the repo.
+You will be working on the cs.utoronto.utm.assignment packages.
+
+0) When a team member is assigned a user story, they should
+1) Pull from remote
+2) Create and switch to new branch UserStoryN or BugN (see the product backlog).
+ 
+3) Work on the UserStory/Bug, committing and pushing along the way.
+   This way, all team members, as well as the instructional staff
+   have access to your branch.
+4) When the UserStory/Bug is complete
+   a) Commit and push the completed branch
+   b) Switch to master
+   c) Pull from remote (to ensure that you have the latest version of master)
+   d) Merge your branch into master, resolving conflicts etc.
+   e) Commit and push to remote
+5) Repeat steps 0-4 on the next user story/bug
+
+
+To understand git branch and merge, see...
+Git merge and branch and conflict resolution
+https://git-scm.com/book/az/v1/Git-Branching-Basic-Branching-and-Merging

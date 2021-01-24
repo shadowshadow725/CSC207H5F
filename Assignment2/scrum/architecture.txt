@@ -1,0 +1,35 @@
+# Use this to outline your architecture, list the design patterns
+# you used in your code and how you used them. Use a few as appropriate
+# to make your code better, using them to complicate code will not help
+# your marks. Start by looking at the design patterns we covered in class.
+
+# USED 
+Observer/Observable : 	Created by arnold, to be used by the View to observe the Model.
+MVC model: 		Implimented and used among files, to construct not only the logic of the application but also the GUI.
+Visitor model :		Used in User Story 1.17 to modify the Othello's game command/logic.
+
+
+
+
+# UNUSED
+Factory
+
+Singleton
+Decorator
+Strategy
+State
+Adapter
+Command
+Iterator
+Flyweight
+Facade
+Proxy
+Composite
+Prototype
+Abstract Factory
+Bridge
+Template Method
+Builder
+Chain of Responsibility
+...
+There are more...

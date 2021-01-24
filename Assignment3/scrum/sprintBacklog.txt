@@ -1,0 +1,105 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 November 19, 2019
+# Sprint 1 Backlog UserStories go below
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 3.0 : UTORID : houxinha STATUS :Complete
+NAME     : Configure and use system
+OWNER    : houxinha
+PRIORITY : 1
+ESTIMATE : 5 minutes  ACTUAL :  5 minutes
+ISSUE    :
+- demonstrates that they can run Paint on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.1 : UTORID : houxinha STATUS : Complete
+NAME     : Polyline
+OWNER    : houxinha
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  1 hour
+AS A     : user
+ISSUE    : A button which allows me to draw a polygon. Once selected,
+a left click on the canvas places the first polyline point.
+Each subsequent left click on the canvas
+adds a line segment to the polyline. A final right click ends the polyline.
+The next left click starts another polyline.  As the mouse moves over
+the canvas, the current potential next line segment is on display.
+
+IMPL DTL : Implementation details for polyline
+See squiggle for example. There is no mouse drag for polyline.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.2 : UTORID : houxinha STATUS : Complete
+NAME     : Save
+OWNER    : houxinha
+PRIORITY : 1
+ESTIMATE : 1 hour  ACTUAL :  1.5 hour
+AS A     : user
+ISSUE    : a user interface that allows me to specify where to save the
+Paint, then saves all Paint commands to a file.
+IMPL DTL : Implementation details for the save feature:
+
+This amounts to saving the command list to a file according
+to the Paint Save File Format.
+Do this using what you have learned in class about FileIO.
+You can find the format of the save file in the
+Assignment3 project under Assignment3/paintSaveFileFormat.txt.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.3 : UTORID : STATUS : NotStarted (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Load
+OWNER    :
+PRIORITY : 2
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  
+AS A     : user
+ISSUE    : the ability to open previously saved Paint programs. A file dialog
+should appear, allowing me to choose the file to load. If the file is not in
+the correct format, provide an appropriate error message.
+IMPL DTL : Implementation details for the load feature:
+
+Read a file in Paint Save File Format, being careful to parse
+each line using an appropriate regular expression/expressions. 
+You can find the format of the save file in the
+Assignment3 project under Assignment3/paintSaveFileFormat.txt.
+
+The result of the execution of the load method should modify
+the given PaintModel. Some ShapeCommands will require careful parsing. 
+For example, you will have to walk
+through a squiggle to properly parse it using Patterns and groups.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 3.4: UTORID : houxinha STATUS : Complete
+NAME     : Visitor1: Improve architecture for drawing
+OWNER    :houxinha
+PRIORITY : 3
+ESTIMATE : 3 hours ACTUAL : 3 hours
+AS A     :
+ISSUE    :
+DEPENDSON:
+IMPL DTL :
+
+Impose the Visitor Design Pattern on the Model (PaintModel and PaintCommands).
+This results in all drawing functionality being moved out of the Model.
+That is, after this BUG is complete, an appropriate DrawingVisitor will
+visit the PaintModel and render the screen using
+a graphics context. Some Model methods may be removed after this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 3.5: UTORID : houxinha STATUS : NotStarted Complete
+NAME     : Visitor2: Improve architecture for save
+OWNER    :houxinha
+PRIORITY : 4
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+AS A     :
+ISSUE    :
+DEPENDSON: USER STORY 3.2 and USER STORY 3.4
+IMPL DTL :
+
+Now that USER STORY 3.2 and 3.4 are in place...
+
+Apply the Visitor Design Pattern to the save function. After this, the model
+will not implement the save function, so you should remove PaintModel.save.
+--------------------------------------------------------------------------

@@ -1,0 +1,223 @@
+# Fill in, commit and push each day.
+Member name:JieYuan Xia      email:jieyuanxia@utoronto.ca     utorid:xiajieyu
+
+Oct 17,2019
+	What I did yesterday: nothing
+	What I will do today: Studying for midterms
+	Obstacles I face: midterms
+
+Oct 18,2019
+	What I did yesterday: Studying for midterms
+	What I will do today: Studying for midterms
+	Obstacles I face: midterms
+
+Oct 19,2019
+	What I did yesterday: Studying for midterms
+	What I will do today: Studying for midterms
+	Obstacles I face: midterms
+
+Oct 20,2019
+	What I did yesterday: Studying for midterms
+	What I will do today: Studying for midterms
+	Obstacles I face: midterms
+
+Oct 21,2019
+	What I did yesterday: Studying for midterms
+	What I will do today: PHY midterm
+	Obstacles I face: midterms
+
+Oct 22,2019
+	What I did yesterday: Studying for midterms
+	What I will do today: Studying for midterms
+	Obstacles I face: midterms
+
+Oct 23,2019
+	What I did yesterday: Studying for midterms
+	What I will do today: CSC236 midterm
+	Obstacles I face: midterms
+
+Oct 24,2019
+	What I did yesterday: Studying for midterms
+	What I will do today: Took a look on the assignment
+	Obstacles I face: nothing
+
+Oct 25,2019
+	What I did yesterday: Took a look on the assignment
+	What I will do today: Relax a bit
+	Obstacles I face: nothing
+
+Oct 26,2019
+	What I did yesterday: Relax a bit
+	What I will do today: Starts Sprints1
+	Obstacles I face: Confused with the environment but fine.
+
+Oct 27,2019
+	What I did yesterday: Sprints1
+	What I will do today: Dealing with other courses assignments
+	Obstacles I face: nothing
+
+Oct 28,2019
+	What I did yesterday: Doing assignments
+	What I will do today: Lab, take a look at user story 1.011
+	Obstacles I face: nothing
+
+Oct 29,2019
+	What I did yesterday: Doing assignments
+	What I will do today: doing physics lab, user story 1.011
+	Obstacles I face: Configuration of javafx
+
+Oct 30,2019
+	What I did yesterday: Doing assignments
+	What I will do today: user story 1.011
+	Obstacles I face: Configuration of javafx
+
+Oct 31,2019
+	What I did yesterday: user story 1.011
+	What I will do today: finish user story 1.011
+	Obstacles I face: Configuration of javafx
+
+Nov 1,2019
+	What I did yesterday: user story 1.011
+	What I will do today: Midterm, the last question blew my mind.
+	Obstacles I face: midterm
+
+Nov 2,2019
+	What I did yesterday: Midterm
+	What I will do today: Doing my physics courses lab reports
+	Obstacles I face: nothing
+
+Nov 3,2019
+	What I did yesterday: Doing my physics courses lab reports
+	What I will do today: Doing my physics courses lab reports
+	Obstacles I face: nothing
+
+Nov 4,2019
+	What I did yesterday: Doing my physics courses lab reports
+	What I will do today: prepare for sta midterm
+	Obstacles I face: nothing
+
+Nov 5,2019
+	What I did yesterday: prepare for sta midterm
+	What I will do today: prepare for sta midterm
+	Obstacles I face: nothing
+
+Nov 6,2019
+	What I did yesterday: prepare for sta midterm
+	What I will do today: prepare for sta midterm, git pull and check my teammates status
+	Obstacles I face: nothing
+
+Nov 7,2019
+	What I did yesterday: prepare for sta midterm
+	What I will do today: sta midterm
+	Obstacles I face: midterm
+
+Nov 8,2019
+	What I did yesterday: sta midterm
+	What I will do today: group members meet up at school
+	Obstacles I face: nothing
+
+Nov 9,2019
+	What I did yesterday: group members meet up at school
+	What I will do today: sprintBacklog 4
+	Obstacles I face: nothing
+
+Nov 10,2019
+	What I did yesterday: sprintBacklog 4
+	What I will do today: other courses homework
+	Obstacles I face: nothing
+
+Nov 11,2019
+	What I did yesterday: other courses homework
+	What I will do today: study for csc236
+	Obstacles I face: nothing
+
+Nov 12,2019
+	What I did yesterday: study for csc236
+	What I will do today: study for csc236
+	Obstacles I face: nothing
+
+Nov 13,2019
+	What I did yesterday: study for csc236
+	What I will do today: csc236 midterm
+	Obstacles I face: midterm
+
+Nov 14,2019
+	What I did yesterday: csc236 midterm
+	What I will do today: doing physics lab report
+	Obstacles I face: nothing
+
+Nov 15,2019
+	What I did yesterday: doing physics lab report
+	What I will do today: try to finish the rest I got
+	Obstacles I face: my view is not getting update(solved).
+
+Nov 16,2019
+	What I did yesterday: try to finish the rest I got
+	What I will do today: Finished
+	Obstacles I face: codes and bugs
+
+Nov 17,2019
+	What I did yesterday: Finished(my part)
+	What I will do today: Checking out everything and submission
+	Obstacles I face: Hope this will work good. I am so glad that I ve done it(although I hate this game so much
+	                  but I still want to say thank you to everyone one).
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

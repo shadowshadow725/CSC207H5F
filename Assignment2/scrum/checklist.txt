@@ -1,0 +1,34 @@
+1) Completed USERSTORIES are in sprintBacklog[1-4].txt and reflect all team members work.
+
+2) Completed BUGS are in sprintBacklog[1-4].txt and reflect all team members work.
+
+3) Completed BUGS and USERSTORIES match one of our specified patterns.
+
+4) All of your branches have been committed and pushed to the remote. 
+
+5) Your branches are nemed by USER STORY and BUG (though there is nothing
+   you can do about this now).
+
+6) Your class names reflect the design patterns you use. For example, 
+   OthelloCommand might be a good name for the superclass of all
+   OthelloCommands. 
+
+7) Fill out architecture.txt. A good approach might be to do what we did
+   in https://axiom.utm.utoronto.ca/~207/19f/labs/10/index.shtml
+   that is, say which design patterns you used and which classes
+   in the project correspond to which in the design pattern
+
+8) Place a notes.txt file in scrum indicating any issues you want
+   us to be aware of. For example, if the name/email on the committs
+   does not match your name/email etc.
+
+9) Identify the commit id you want us to mark by having a team member
+   add it to https://cs.utm.utoronto.ca/~ta/207whichCommit 
+   otherwise, we will take the last commit id before the due date.
+   Make sure this is on the master branch.
+
+10) Make sure your code works in the lab. The best bet for this is to
+    have one team member clone the repo and then try to run the project.
+    If there is any special setup or issues we should know about, please
+    put it in notes.txt.
+

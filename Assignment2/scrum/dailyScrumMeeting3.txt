@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name:xinhao hou      email: xinhao.hou@mail.utoronto.ca    utorid:  houxinha 
+
+Oct 17,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 18,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 19,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 20,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 21,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 22,2019
+	What I did yesterday: nothing
+	What I will do today: US1.01
+	Obstacles I face: don't understand what the assignment wants me to do
+
+Oct 23,2019
+	What I did yesterday:US1.01
+	What I will do today:nothing
+	Obstacles I face: nothing
+
+Oct 24,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 25,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 26,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 27,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 28,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 29,2019
+	What I did yesterday: nothing
+	What I will do today:
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Oct 31,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Nov 1,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Nov 2,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face:nothing
+
+Nov 3,2019
+	What I did yesterday:nothing
+	What I will do today: US1.02
+	Obstacles I face: US1.012 got position info from the text of the button, that was incorrect. Needed to fix the porblem before starting my work
+
+Nov 4,2019
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Nov 5,2019
+	What I did yesterday: nothing
+	What I will do today:nothing
+	Obstacles I face:nothing
+
+Nov 6,2019
+	What I did yesterday:nothing
+	What I will do today: US1.021 , US1.03, US1.04, US1.05, US1.06
+	Obstacles I face: nothing 
+
+Nov 7,2019
+	What I did yesterday:US1.021 , US1.03, US1.04, US1.05, US1.06
+	What I will do today:us1.07
+	Obstacles I face: rewriting controller
+
+Nov 8,2019
+	What I did yesterday: us1.07
+	What I will do today: us1.07
+	Obstacles I face: rewriting everything
+
+Nov 9,2019
+	What I did yesterday: us1.07
+	What I will do today: us1.07, US1.071, US1.08, US1.11
+	Obstacles I face: the game finishing in 1 frame 
+
+Nov 10,2019
+	What I did yesterday: us1.07, US1.071, US1.08, US1.11
+	What I will do today: nothing
+	Obstacles I face: nothing
+
+Nov 11,2019
+	What I did yesterday:nothing
+	What I will do today:nothing
+	Obstacles I face:nothing
+
+Nov 12,2019
+	What I did yesterday:nothing
+	What I will do today:nothing
+	Obstacles I face:nothing
+
+Nov 13,2019
+	What I did yesterday:nothing
+	What I will do today:nothing
+	Obstacles I face:nothing
+
+Nov 14,2019
+	What I did yesterday:nothing
+	What I will do today:nothing
+	Obstacles I face:nothing
+
+Nov 15,2019
+	What I did yesterday:nothing
+	What I will do today:nothing
+	Obstacles I face:nothing
+
+Nov 16,2019
+	What I did yesterday:nothing
+	What I will do today: play pokemon
+	Obstacles I face:nothing
+
+Nov 17,2019
+	What I did yesterday: play pokemon
+	What I will do today: finish US1.17 and fix various bugs
+	Obstacles I face: I dont understand what the professors want me to do
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

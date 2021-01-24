@@ -1,0 +1,283 @@
+# User Stories/Bugs (add as appropriate), modify at each Sprint Planning Meeting
+# If a USER STORY is large, break it into smaller user stories.
+
+
+--------------------------------------------------------------------------
+TYPE     : BUG 0.01 : UTORID : xiajieyu  STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Member 1
+PRIORITY : 1
+ESTIMATE : 2 hours  ACTUAL : 1.5 hours
+ISSUE    :
+- demonstrates that they have added, committed and pushed members.txt.
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.02 : UTORID : fanyunka STATUS : Completed
+NAME     : Configure and use system
+OWNER    : Member 2
+PRIORITY : 1
+ESTIMATE : 2 hour   ACTUAL :  2 hours
+ISSUE    : Member 2
+- demonstrates that they have added, committed and pushed members.txt.
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.03 : UTORID: houxinha STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Member 3
+PRIORITY : 1
+ESTIMATE : 2 hour   ACTUAL :  2 hour
+ISSUE    :
+- demonstrates that they have added, committed and pushed members.txt.
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.04 : UTORID :zhan6503 STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Member 4
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  1 hour
+ISSUE    :
+- demonstrates that they have added, committed and pushed members.txt.
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.012 : UTORID : xiajieyu STATUS : Complete
+NAME     : OthelloGUI
+OWNER    : Member 1
+PRIORITY : 1
+ESTIMATE : 2 hours ACTUAL : 2 hours
+ISSUE    : Fix bugs in US 1.011.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.02 : UTORID : houxinha   STATUS : Complete
+NAME     : Othello Board Human VS Human
+OWNER    : Member 3
+PRIORITY : 1
+ESTIMATE : 3 hours  ACTUAL :  1 hours
+ISSUE    : The users can now use the OthelloGUI created in US1.012
+for Human vs Human play. The grid buttons simply show X and O text
+labels for the buttons. There is no longer a console display as in 1.012.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.021 : UTORID :houxinha STATUS : Complete
+NAME     : Check Architecture
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1.5 hour   ACTUAL : 1 hour
+ISSUE    : If your code is not MVC right now, fix it to MVC. Pay the price
+now to create a good architecture, rather than clean up a lot of code later.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.03 : UTORID : houxinha STATUS : Complete
+NAME     : Whos Next
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 0.5 hour
+ISSUE    : When users play HumanVSHuman, the player that moves next is on display,
+correctly showing the token of the next player to make a move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.04 : UTORID :houxinha STATUS : Complete
+NAME     : Token Counter
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 0.5 hour ACTUAL : 10 minutes
+ISSUE    : When user play, the count for each player is on display.
+This count shows the
+current number of P1 tokens and P2 tokens on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.05 : UTORID : houxinha STATUS : Complete
+NAME     : Who Won
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :
+ISSUE    : When users play, the current status of the game is on display, showing the token
+of the winner of the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.06 : UTORID : houxinha STATUS : Complete
+NAME     : Change tokens to Images
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 0.5 hour
+ISSUE    : When users are playing and the board is on display,
+instead of displaying X and O as players, the users see
+appropriate black/white tokens.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.07 : UTORID : houxinha STATUS : Complete
+NAME     : Opponent Chooser GUI Selection
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 day  ACTUAL : 3 days
+ISSUE    : When users are playing, they see a GUI which allows the user to
+choose whether to play HumanVSHuman, HumanVSGreedy, HumanVSRandom.
+This user story involves
+just providing the gui for choice. After choosing, log the choice to
+the console, the game actually
+plays HumanVSHuman for now. The user should be able to switch opponents
+at any time during game play.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.071 : UTORID : houxinha STATUS : Complete
+NAME     : Opponent Chooser GUI Display
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  30 minutes
+ISSUE    : An extension to Opponent Chooser, the current player types
+are on display, so for example,
+P1: Human  P2: Greedy
+P1: Random P2: Human
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.08 : UTORID : houxinha STATUS : Complete
+NAME     : Opponent Chooser Implementation
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 10 minutes  ACTUAL :  10 minutes
+ISSUE    : An extension to Opponent Chooser, we implement the users choice
+of opponent, so the Human can actually play the select opponent. Reminder:
+the user should be able to switch opponents at any time during game play.
+THe current game continues with the new opponent.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : UTORID : zhan6503 , STATUS : Complete
+NAME     : Othello Timer Fixed Time
+OWNER    : member 4
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  2 hours
+ISSUE    : When users play, they see a chess like timer for the othello game.
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG   1.09 : UTORID : houxinha , STATUS : Complete
+NAME     : Othello Timer Fixed Time
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  1 hours
+ISSUE    : Bug causes by incorrect static usage causing player names to be changed after each timer update. Also
+fixed a problem of entering non integer values when setting the timer would cause errors in the console. More code
+clean up and renaming.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.10 : UTORID : xiajieyu STATUS : Complete
+NAME     : AI Hint
+OWNER    : Member 1
+PRIORITY : 1
+ESTIMATE : 4 hours   ACTUAL :  3 hours
+ISSUE    : Display a hint (row,col) move that player can use
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.101 : UTORID : xiajieyu STATUS : Complete
+NAME     : AI Hint
+OWNER    : Member 1
+PRIORITY : 1
+ESTIMATE : 4 hours   ACTUAL :  1 hours
+ISSUE    :
+1) Instead of displaying the (row,col),the hint is highlighted on the board.
+
+2) User can click on Random/Greedy/New Strategy hint button to give out the
+hint they want.
+>>>>>>> accbbf871cb861ebc2c1199d8b56fb485d28db59
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.11 : UTORID : houxinha STATUS : Complete
+NAME     : Restart
+OWNER    : member3
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 3 hours
+ISSUE    : When a user is playing, they see a button etc. which allows them
+to restart the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.11 : UTORID : houxinha STATUS : Complete
+NAME     : player switcher no longer work after reset
+OWNER    : member 3
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 10 minutes
+ISSUE    : player switcher no longer work after reset
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.12 : UTORID : xiajieyu STATUS : Complete
+NAME     : Undo
+OWNER    : member1
+PRIORITY : 2
+ESTIMATE : 4 hours    ACTUAL :  4 hours
+ISSUE    : A user has the ability to undo the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : UTORID :xiajieyu STATUS :Complete
+NAME     : Animation
+OWNER    : member1
+PRIORITY : 3
+ESTIMATE : 4 hours  ACTUAL :2 hours
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.14 : UTORID : fanyunka STATUS : Complete
+NAME     : Available moves
+OWNER    : member2
+PRIORITY : 1
+ESTIMATE : 4 hours   ACTUAL : 1 day
+ISSUE    : When a user is playing, they see the positions that they can
+move highlighted vs the positions they can't move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.15 : UTORID : fanyunka STATUS : Complete
+NAME     : Better strategy
+OWNER    : Member 2
+PRIORITY : 1
+ESTIMATE : 1 day ACTUAL :  2 hours
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.15 : UTORID : fanyunka STATUS : Complete
+NAME     : Better strategy UI FIX
+OWNER    : Member 2
+PRIORITY : 1
+ESTIMATE : 1 hour ACTUAL :  1 hours
+ISSUE    : Made change to UI of Othello board after adding new Strategy
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.17 : UTORID : houxinha STATUS : Complete
+NAME     : Use Visitor for Othello board
+OWNER    : member4
+PRIORITY : 1
+ESTIMATE : 4 day   ACTUAL :  1 day
+ISSUE    : There is a lot of replicated code in Othello and OthelloBoard, all of
+which visits the board in one of a few different ways. Implement the
+visitor design pattern on the OthelloBoard and rewrite code using othello
+and othello board to now create visitors and use them as appropriate.
+
+NOTE: Some private methods could be removed as a result of this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.18 : UTORID : xiajieyu STATUS : Complete
+NAME     : Documentation
+OWNER    : Member1
+PRIORITY : 2
+ESTIMATE : 0.5 hours    ACTUAL : 0.5 hours
+ISSUE    : Make documentations
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.99 : UTORID : zhan6503 STATUS : Complete
+NAME     : Architecture Document
+OWNER    : member4
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 2 hours
+ISSUE    : Complete architecture.txt outlining any interesting features about
+your design. You should outline which design patterns you used where.
+--------------------------------------------------------------------------
